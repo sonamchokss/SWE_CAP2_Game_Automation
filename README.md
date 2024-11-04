@@ -183,6 +183,8 @@ harvest them faster.
 I applied a scheduling algorithm that makes bots wait until a certain number of crops are ready before harvesting. 
 This method groups tasks and prevents frequent, small trips, saving time
 
+**Video Demo**
+https://drive.google.com/drive/folders/10qflBBQy8dUi1_uKn-gCEXt6ZinW0rJX?usp=sharing
 
 ## References
 1. [CODE, FARM, AUTOMATE: The Farmer Was Replaced] (https://youtu.be/gmJ357XAAdE?si=s7kwdR6pZ3hQbh0y)
